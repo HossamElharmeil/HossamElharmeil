@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HossamElharmeil
 - 👀 I’m interested in React, Node and everything JavaScript!
 - 🌱 I’m currently learning TypeScript with React and other technologies
-- 💞️ I’m looking to collaborate on any front end projects using React, Angular or vue
+- 💞️ I’m looking to collaborate on any front end projects using React, Angular, Vue or Flutter
 - 📫 How to reach me => hossam.elharmil@gmail.com , , +201050078882
 
 <!---
